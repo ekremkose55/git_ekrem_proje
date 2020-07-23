@@ -16,6 +16,7 @@ public class FirstClass {
 		System.out.println("9. hariciye kogusu olmasi gerekmiyor mu aptal!");
 		System.out.println("Haklisiniz bu bana hic yakismadi!");
 		System.out.println("Bu ne bencillik bana yakistirdiniz ama!");
+		System.out.println("Bunda da haklisiniz ozur dilerim hara ettim lutfen bagislayin!");
 
 	}
 
