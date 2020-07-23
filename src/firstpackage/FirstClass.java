@@ -21,6 +21,7 @@ public class FirstClass {
 		System.out.println("Bu da bana ders olsun!");
 		System.out.println("Ne diyeyim dil belasi!");
 		System.out.println("Bu muhabbete son verelim mi uzadi sanki");
+		System.out.println("Neden olmasin ne demisler ya hayir konus ya da sus!");
 
 	}
 
