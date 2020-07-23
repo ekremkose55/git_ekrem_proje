@@ -9,6 +9,7 @@ public class FirstClass {
 		System.out.println("Last commit from local repository");
 		System.out.println("First commit from remote repository");
 		System.out.println("5. commitimiz remote repo'dannn");
+		System.out.println("6. commitimiz local repo'dannn");
 
 	}
 
