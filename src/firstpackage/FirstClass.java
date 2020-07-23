@@ -10,6 +10,7 @@ public class FirstClass {
 		System.out.println("First commit from remote repository");
 		System.out.println("5. commitimiz remote repo'dannn");
 		System.out.println("6. commitimiz local repo'dannn");
+		System.out.println("7. commitimiz remote repo'dannn");
 
 	}
 
