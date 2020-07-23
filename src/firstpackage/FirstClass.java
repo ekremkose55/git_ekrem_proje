@@ -11,6 +11,7 @@ public class FirstClass {
 		System.out.println("5. commitimiz remote repo'dannn");
 		System.out.println("6. commitimiz local repo'dannn");
 		System.out.println("7. commitimiz remote repo'dannn");
+		System.out.println("8. commitimiz local repo'dannn dan dandanakan");
 
 	}
 
