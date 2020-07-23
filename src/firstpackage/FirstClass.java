@@ -23,6 +23,7 @@ public class FirstClass {
 		System.out.println("Bu muhabbete son verelim mi uzadi sanki");
 		System.out.println("Neden olmasin ne demisler ya hayir konus ya da sus!");
 		System.out.println("Sustum!");
+		System.out.println("Aferin");
 
 	}
 
