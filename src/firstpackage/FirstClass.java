@@ -13,6 +13,7 @@ public class FirstClass {
 		System.out.println("7. commitimiz remote repo'dannn");
 		System.out.println("8. commitimiz local repo'dannn dan dandanakan");
 		System.out.println("8. hariciye kogusu hahahaha!");
+		System.out.println("9. hariciye kogusu olmasi gerekmiyor mu aptal!");
 
 	}
 
