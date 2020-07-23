@@ -19,6 +19,7 @@ public class FirstClass {
 		System.out.println("Bunda da haklisiniz ozur dilerim hara ettim lutfen bagislayin!");
 		System.out.println("Ben kabalik yapmayacagim ozrunuz kabul oldu!");
 		System.out.println("Bu da bana ders olsun!");
+		System.out.println("Ne diyeyim dil belasi!");
 
 	}
 
