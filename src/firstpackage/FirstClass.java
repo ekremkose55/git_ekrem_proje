@@ -18,6 +18,7 @@ public class FirstClass {
 		System.out.println("Bu ne bencillik bana yakistirdiniz ama!");
 		System.out.println("Bunda da haklisiniz ozur dilerim hara ettim lutfen bagislayin!");
 		System.out.println("Ben kabalik yapmayacagim ozrunuz kabul oldu!");
+		System.out.println("Bu da bana ders olsun!");
 
 	}
 
