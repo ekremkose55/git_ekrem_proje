@@ -6,6 +6,8 @@ public class FirstClass {
 		System.out.println("First commit from local repository");
 		System.out.println("Second commit from local repository");
 		System.out.println("son degisim localden");
+		System.out.println("son conflict remote den");
+
 		
 		
 		
