@@ -8,6 +8,7 @@ public class FirstClass {
 		System.out.println("son degisim localden");
 		System.out.println("son conflict remote den");
 		System.out.println("yeni bir commit daha remoteden");
+		System.out.println("son bir commit daha remoteden");
 
 		
 		
